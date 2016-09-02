@@ -9,7 +9,7 @@
 import XCTest
 @testable import Extensions
 
-class ExtensionsTests: XCTestCase {
+class ExtensionsTestsXC: XCTestCase {
     
     override func setUp() {
         super.setUp()
